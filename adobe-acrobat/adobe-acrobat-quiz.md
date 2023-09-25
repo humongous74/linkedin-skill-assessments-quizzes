@@ -160,7 +160,7 @@
 
 #### Q23. In a fillable form, you would like the user to be able to enter their own text in a multi-choice form field, if none of the existing choices in the form field are suitable. Which type of form field would provide this option?
 
-- [ ] a list box field
+- [x] a list box field
 - [ ] a multi-line text field
 - [ ] a drop-down field
 - [ ] a text field with rich text formatting
@@ -176,27 +176,27 @@
 
 - [ ] Click **Create Layer Set**.
 - [ ] Click **Add Layers**.
-- [ ] Deselect the **Convert All Pages in Drawing** option.
+- [x] Deselect the **Convert All Pages in Drawing** option.
 - [ ] Select **Retain Some Layers in the Selected Page**.
 
 #### Q26. A small section of a 28-page PDF has been updated with new image and given to you as a 3-page PDF. You have both PDFs open in Acrobat. Before you update the 28-page file with the new pages, you need to verify that the text is unchanged. What is the best way to do this?
 
 - [ ] From the 28-page PDF, extract and save the three pages as a new PDF. For each of the two three-page PDFs, choose **File > Export to > Text (Plain).**
 - [ ] Arrange the two PDFs in side-by-side windows in Acrobat. Scroll to the first page of the section in the larger PDF, and compare the visually, line by line.
-- [ ] Go to **View > Compare Files** and choose **Text Only**. Then, in Settings, edit the **Compare Page Range** field of the larger document so that it is the same three-page range. Then click **Compare**.
+- [x] Go to **View > Compare Files** and choose **Text Only**. Then, in Settings, edit the **Compare Page Range** field of the larger document so that it is the same three-page range. Then click **Compare**.
 - [ ] Select the original text in the 3-page section of the 28-page PDF and copy it to the clipboard. Then, paste it into the new 3-page PDF, replacing all of it text.
 
 #### Q27. You need to send multiple documents to a potential client, and you would like to add security to all of the documents at once. What is the easiest method?
 
 - [ ] Portfolio
 - [ ] LiveCycle Rights Management
-- [ ] Security Envelope
+- [x] Security Envelope
 - [ ] Email Review
 
 #### Q28. You need to reduce the resolution of image content in an existing PDF, while controlling the look of the images. Which option allows you to change the resolution of image content with options?
 
 - [ ] Press-ready PDF
-- [ ] Optimized PDF
+- [x] Optimized PDF
 - [ ] Certified PDF
 - [ ] Reader Extended PDF
 
@@ -218,7 +218,7 @@
 
 - [ ] A
 - [ ] B
-- [ ] C
+- [x] C
 - [ ] D
 
 #### Q32. You provide an interactive PDF to a client that you created. The interactive PDF includes multiple embedded videos. However, the client cannot view the videos. What is a reason that the client might be unable to view the video?
@@ -259,7 +259,7 @@
 #### Q43. You tried to extract and export each photo within a 12-page PDF newsletter to a specific folder as individual JPEGs. Instead of individual images, Acrobat exported each full page as a single JPEG image. How can you achieve an export of indiviudal JPEGs instead?
 
 - [ ] Edit the conversion settings in **File > Export > Image > JPEG**.
-- [ ] Turn off the **Extract Pages as Separate Files** checkbox in **Organize Pages > Extract**.
+- [x] Turn off the **Extract Pages as Separate Files** checkbox in **Organize Pages > Extract**.
 - [ ] Enable the **Export All Images** checkbox in **Tools > Export PDF > Image**.
 - [ ] Edit the image settings in **File > Save As Other > Optimized PDF**.
 
@@ -295,19 +295,19 @@
 
 - [ ] **Comment panel menu**
 - [ ] **Properties Toolbar**
-- [ ] **Preferences > Commenting**
+- [x] **Preferences > Commenting**
 - [ ] **Preferences > Reviewing**
 
 #### Q43. In a complex forms document, one field is currently a drop-down list field. However, the client specifies that it should instead be a multi-line text field. How can you do what the client requests?
 
 - [ ] Select the drop-down field and then click the **Dropdown** icon in the secondary toolbar.
-- [ ] Right-click the drop-down field and select **Properties** from the context menu.
+- [x] Right-click the drop-down field and select **Properties** from the context menu.
 - [ ] Delete the drop-down field and create a text field in its place.
 - [ ] Select the drop-down field and then click **Prepare Form** in the right pane.
 
 #### Q44. A proprietary document is being sent to a new client. You would like to ensure that the client can open the PDF but not change any of the contents. In **Password Security Settings**, what should you choose?
 
-- [ ] Permissions
+- [x] Permissions
 - [ ] Certificates
 - [ ] Document Open
 - [ ] Compatibility
@@ -317,11 +317,11 @@
 - [ ] **Accessibility > Set Alternate Text**
 - [ ] **Tools > Action Wizard**
 - [ ] **Accessibility > Reading Options**
-- [ ] **Document Properties > Password > Security > Settings**
+- [x] **Document Properties > Password > Security > Settings**
 
 #### Q46. While customizing the **Quick Tools** toolbar, you would like to add vertical dividers to organize the tools. Which icon in the **Customize Quick Tools** options will enable you to do this?
 
-- [ ] ![image](images/001.jpg?raw=jpg)
+- [x] ![image](images/001.jpg?raw=jpg)
 - [ ] ![image](images/002.jpg?raw=jpg)
 - [ ] ![image](images/003.jpg?raw=jpg)
 - [ ] ![image](images/004.jpg?raw=jpg)
